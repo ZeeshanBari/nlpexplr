@@ -1,0 +1,2 @@
+# Automacy AI : First Steps
+The purpose of this repo is to explore options for setting up Application Infastructure and AI Service (defined CI/CD pipeline that will compile and deploy NLP service on a daily basis)
