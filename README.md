@@ -47,3 +47,6 @@ Ctrl-C Ctrl-C
 
 ## php to python 
 changes to python api reflect webpage created by php script in real time
+
+## next steps 
+https://docs.docker.com/compose/django/
