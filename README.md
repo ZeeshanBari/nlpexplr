@@ -44,3 +44,6 @@ run in terminal:
 
 Kill everything 
 Ctrl-C Ctrl-C
+
+## php to python 
+changes to python api reflect webpage created by php script in real time
