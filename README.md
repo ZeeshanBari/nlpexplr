@@ -50,3 +50,8 @@ changes to python api reflect webpage created by php script in real time
 
 ## next steps 
 https://docs.docker.com/compose/django/
+
+## documentation help
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idsteps
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/getting-started-with-github-actions
