@@ -1,4 +1,4 @@
-# content of test_sample.py
+# this file is automatically run when changes are pushed to repo
 def inc(x):
     return x + 1
 
