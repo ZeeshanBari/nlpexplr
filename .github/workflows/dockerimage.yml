@@ -11,4 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Building the Docker Image with Docker-compose file
-      run: docker-compose up
+      run: |
+        docker pull --platform linux php
+        docker run -it php
+        docker-compose up
