@@ -6,12 +6,9 @@ jobs:
 
   build:
 
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v1
     - name: Building the Docker Image with Docker-compose file
-      run: |
-        docker pull --platform linux php
-        docker run -it php
-        docker-compose up
+      run: docker-compose up
